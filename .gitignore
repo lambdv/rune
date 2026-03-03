@@ -1,0 +1,11 @@
+*.class
+*.jar
+/target
+/data
+/logs
+/tmp
+/var
+/www
+/wwwroot
+/wwwroot
+/.settings
