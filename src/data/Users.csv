@@ -1,7 +1,0 @@
-id,username,email,passsword,created_at,updated_at
-1,john_doe,john.doe@example.com,password123,2021-01-01,2021-01-01
-2,jane_smith,jane.smith@example.com,password456,2021-01-02,2021-01-02
-3,jim_beam,jim.beam@example.com,password789,2021-01-03,2021-01-03
-4,jill_jones,jill.jones@example.com,password101,2021-01-04,2021-01-04
-5,jack_black,jack.black@example.com,password112,2021-01-05,2021-01-05
-7,jim_beam,jim.beam@example.com,password456,2021-01-07,2021-01-07
