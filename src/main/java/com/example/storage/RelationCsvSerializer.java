@@ -33,7 +33,7 @@ public class RelationCsvSerializer implements RelationSerializer<String> {
             rows.add(List.of(line.split(",")));
         }
         if (!rows.isEmpty()) {
-            rows.remove(0); // drop header row
+            rows.remove(0);
         }
         return new Relation(schema, rows);
     }

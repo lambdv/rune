@@ -1,0 +1,1 @@
+{"name":"TestSchema","attributes":[{"domain":"SERIAL","name":"id"},{"domain":"STRING","name":"username"},{"domain":"STRING","name":"email"},{"domain":"STRING","name":"password"},{"domain":"STRING","name":"created_at"},{"domain":"STRING","name":"updated_at"}]}

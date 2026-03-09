@@ -1,0 +1,1 @@
+{"name":"subscriptions","attributes":[{"domain":"SERIAL","name":"id"},{"domain":"SERIAL","name":"user_id"},{"domain":"STRING","name":"plan"},{"domain":"STRING","name":"status"},{"domain":"STRING","name":"start_date"}]}

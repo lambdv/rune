@@ -1,0 +1,5 @@
+id,user_id,plan,status,start_date
+1,1,premium,active,2024-01-15
+2,2,basic,active,2024-02-20
+3,1,enterprise,cancelled,2023-12-10
+4,3,premium,active,2024-03-01
