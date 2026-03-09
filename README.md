@@ -7,6 +7,11 @@ var query = Query.select("users")
     .rename("username", "user_name")
     .build();
 
+///Rows affected: 3
+///[alice, alice@example.com, premium, active]
+///[bob, bob@example.com, basic, active]
+///[charlie, charlie@example.com, enterprise, cancelled]
+
 static{
     var schema = new Schema("users", List.of(
         new Attribute("id", Domain.SERIAL),
